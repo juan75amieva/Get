@@ -1,0 +1,2 @@
+# Get
+Utilizando metodo Get
